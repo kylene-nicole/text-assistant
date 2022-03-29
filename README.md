@@ -4,13 +4,13 @@ Since the pandemic, it has been my method of madness to text myself reminders, i
 
 Today, I fixed that! Using Twilio SMS (Trial) I created a JavaScript application using Google Calendar API and Twilio API. Accepting texts as I normally compose them:
 
-#### *Title*
+##### *Title*
 
-#### *startTime*
+##### *startTime*
 
-#### *endTime (either another date, or a time-frame in minutes)*
+##### *endTime (either another date, or a time-frame in minutes)*
 
-#### *Description (if needed)*
+##### *Description (if needed)*
 
 
 My application parses this information, and inserts it into my google calendar. I receive a SMS text from Twilio apon success or failure.
