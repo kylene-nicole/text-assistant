@@ -16,6 +16,7 @@ Today, I fixed that! Using Twilio SMS (Trial) I created a JavaScript application
 My application parses this information, and inserts it into my google calendar. I receive a SMS text from Twilio apon success or failure.
 
 Future additions:
-I would like to implement the Google Event "ifbusy" functionality when inserting an event. It may be handy to make sure I am not overlapping with any events since I will not be looking at the Calendar interface.
+I would like to implement the Google Event "if busy" functionality when inserting an event. It may be handy to make sure I am not overlapping with any events since I will not be looking at the Calendar interface.
+Additionally, I would like to move away from ngrok, my temporary online server solution.
 
 I will be posting a short blog post about this on my portfolio site soon!
